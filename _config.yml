@@ -1,0 +1,58 @@
+# Setup
+title: Han Junhui
+description: 楊樹頭（選擇困難症）和現世囡囡
+url: https://sugoijosephhan.github.io
+avatar: /images/tx2.jpg
+paginate: 5
+permalink: pretty
+cover_image: /images/bg5.jpg
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - scripts/
+  - not-pure-poole.gemspec
+
+# Optimize Jekyl SEO Tag
+twitter:
+  username: 
+  card: 
+logo: /images/tx.jpg
+social:
+  name: www.hanjunhui.com
+  links:
+    - https://github.com/sugoijosephhan/
+google_site_verification: 
+lang: en
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# google_analytics: 
+
+# Replace this value and uncomment to enable Disqus
+# disqus: xxxxxx
+
+# Specify the author for blog posts
+author:
+  name: www.hanjunhui.com
+  url: /about
+  email: 

@@ -1,0 +1,12 @@
+- title: Email
+  url: mailto://josephhan059@gmail.com
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/@vepozosoya
+  icon: fab fa-twitter
+- title: Instagram
+  url: https://instagram.com/@vepozosoya
+  icon: fab fa-instagram
+- title: GitHub
+  url: https://github.com/sugoijosephhan/
+  icon: fab fa-github
