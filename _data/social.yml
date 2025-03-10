@@ -2,11 +2,14 @@
   url: mailto://josephhan059@gmail.com
   icon: fas fa-envelope
 - title: Twitter
-  url: https://twitter.com/@jh0110han
+  url: https://twitter.com/@sugoianyaforger
   icon: fab fa-twitter
 - title: Instagram
-  url: https://instagram.com/@jh0110han
+  url: https://instagram.com/@sugoianyaforger
   icon: fab fa-instagram
+- title: YouTube
+  url: https://www.youtube.com/@sugoianyaforger
+  icon: fab fa-youtube
 - title: GitHub
   url: https://github.com/sugoijosephhan/
   icon: fab fa-github
