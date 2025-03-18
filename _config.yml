@@ -1,6 +1,11 @@
 # Setup
+<<<<<<< HEAD
 title: 韩俊辉
 description: 万事顺遂
+=======
+title: 饭泡粥少爷
+description: 生活中的很多事情可能看似偶然，但它们共同构成了我们的人生。
+>>>>>>> 63c7ed8abb52b2acc5ec9e170b4b7bd7516cc765
 url: https://sugoijosephhan.github.io
 avatar: /images/tx2.jpg
 paginate: 8
@@ -33,7 +38,7 @@ twitter:
   card: 
 logo: /images/tx.jpg
 social:
-  name: www.hanjunhui.com
+  name: Vepozo
   links:
     - https://github.com/sugoijosephhan/
 google_site_verification: 
@@ -53,6 +58,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: www.hanjunhui.com
+  name: Vepozo
   url: /about
   email: 
