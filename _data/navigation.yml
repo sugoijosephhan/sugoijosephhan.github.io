@@ -2,9 +2,5 @@
   url: /
 - title: 关于我
   url: /about
-- title: 沪语辞典
-  url: /shanghainese
-- title: ExTyper
-  url: /extyper
-- title: 我的生活
-  url: https://blog.vepozo.com
+- title: 更多
+  url: /more
