@@ -10,4 +10,4 @@ title: More
 
 | 我的其他博客 |                     
 | :--- |                     
-| [我的生活](https://blog.vepozo.com/) |                     
+| [我的生活](https://sugoijosephhan.blogspot.com/) |                     
