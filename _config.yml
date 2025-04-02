@@ -1,6 +1,6 @@
 # Setup
-title: 饭泡粥少爷
-description: 诸事顺遂
+title: Fanpaozhou
+description: Things will work out just fine.
 url: https://sugoijosephhan.github.io
 avatar: /images/tx2.jpg
 paginate: 8
@@ -33,7 +33,7 @@ twitter:
   card: 
 logo: /images/tx.jpg
 social:
-  name: Vanpautsok Sauya
+  name: Fanpaozhou
   links:
     - https://github.com/sugoijosephhan/
 google_site_verification: 
@@ -53,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Vanpautsok Sauya
+  name: Fanpaozhou
   url: /about
   email: 
