@@ -1,15 +1,9 @@
 - title: Email
-  url: mailto:josephhan059@gmail.com
+  url: mailto:3047285021@qq.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/@sugoianyaforger
-  icon: fab fa-twitter
-- title: Instagram
-  url: https://instagram.com/sugoianyaforger
-  icon: fab fa-instagram
-- title: YouTube
-  url: https://www.youtube.com/@sugoianyaforger
-  icon: fab fa-youtube
-- title: GitHub
+- title: Weibo
+  url: https://weibo.com/sugoijoe
+  icon: fab fa-weibo
+- title: GitHub 
   url: https://github.com/sugoijosephhan/
   icon: fab fa-github
