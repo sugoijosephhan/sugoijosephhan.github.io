@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
  
-HuiLuvzUrHeart (Han Junhui), male, born in Shanghai in 2006.           
+HuiLuvzUrHeart (Junhui "Joseph" Han), male, born in Shanghai in 2006.           
 
 ### Obtained Certificates         
 
