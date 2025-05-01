@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
  
-Hsiänsch Neuneu Huehue (pseudonym), male, born in Shanghai in 2006.           
+HuiLuvzUrHeart (Han Junhui), male, born in Shanghai in 2006.           
 
 ### Obtained Certificates         
 
