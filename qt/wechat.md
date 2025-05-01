@@ -3,4 +3,4 @@ layout: page
 title: WeChat
 ---
 
-![WeChat](/images/wechat.png)               
+![WeChat](/images/wx.png)               
