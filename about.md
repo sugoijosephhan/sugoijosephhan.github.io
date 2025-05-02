@@ -13,3 +13,7 @@ May my future journey unfold smoothly.
                                 
 Junhui "Joseph" Han                     
 2nd May, 2025           
+
+---                         
+
+_If my content is illegal in your region, please contact me via email to make changes._               
