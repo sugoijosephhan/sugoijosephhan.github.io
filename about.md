@@ -16,4 +16,6 @@ Junhui "Joseph" Han
 
 ---                         
 
-_If my content is illegal in your region, please contact me via email to make changes._               
+### Legalization Clause                 
+
+If my contents are illegal in your region, please contact me via email to make changes. If the provided information is verified to be true, the website will remove the illegal contents or make other adjustments within one business week.                
