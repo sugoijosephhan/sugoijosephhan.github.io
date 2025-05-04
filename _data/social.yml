@@ -1,5 +1,5 @@
 - title: Email
-  url: mailto:3047285021@qq.com
+  url: mailto:sugoijosephhan@qq.com
   icon: fas fa-envelope
 - title: Weibo
   url: https://weibo.com/sugoijoe
@@ -7,15 +7,12 @@
 - title: WeChat
   url: https://sugoijosephhan.github.io/qt/wechat
   icon: fab fa-weixin
-#- title: X
-#  url: https://x.com/@sugoianyaforger
-#  icon: fab fa-twitter
-#- title: Instagram
-#  url: https://instagram.com/sugoianyaforger
-#  icon: fab fa-instagram
-#- title: YouTube
-#  url: https://www.youtube.com/@sugoianyaforger
-#  icon: fab fa-youtube
 - title: GitHub 
   url: https://github.com/sugoijosephhan/
   icon: fab fa-github
+- title: Twitch
+  url: https://www.twitch.tv/sugoijosephhan
+  icon: fa fa-twitch
+- title: Steam
+  url: https://steamcommunity.com/id/HuiLuvzUrHeart/
+  icon: fa fa-steam
