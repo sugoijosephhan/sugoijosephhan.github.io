@@ -1,6 +1,6 @@
 # Setup
-title: HuiLuvzUrHeart
-description: "and let thy feet millenniums hence be set in midst of knowledge"
+title: Han Junhui
+description: "让你的双脚在此后的千百年里都站在知识中间"
 url: https://sugoijosephhan.github.io
 avatar: /images/tx2.jpg
 paginate: 8
@@ -33,7 +33,7 @@ twitter:
   card: 
 logo: /images/tx.jpg
 social:
-  name: HuiLuvzUrHeart
+  name: Han Junhui
   links:
     - https://github.com/sugoijosephhan/
 google_site_verification: 
@@ -53,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: HuiLuvzUrHeart
+  name: Han Junhui
   url: /about
   email: 
