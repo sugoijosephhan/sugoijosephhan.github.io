@@ -1,6 +1,8 @@
-- title: Home
+- title: 主页 Home
   url: /
-- title: About
+- title: 关于 About
   url: /about
-- title: More
+- title: 更多 More
   url: /more
+- title: 客服 Customer Service
+  url: /kefu.html
