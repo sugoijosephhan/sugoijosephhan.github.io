@@ -2,13 +2,16 @@
   url: mailto:3047285021@qq.com
   icon: fas fa-envelope
 - title: Facebook
-  url: https://facebook.com/
+  url: https://www.facebook.com/huijo3eee/
   icon: fab fa-facebook
 - title: X
-  url: https://x.com/hui_jo3_imnot
+  url: https://x.com/hui_jo3_h
+  icon: fab fa-twitter
+- title: Instagram
+  url: https://www.instagram.com/hui_jo3_h/
   icon: fab fa-twitter
 - title: YouTube
-  url: https://youtube.com/
+  url: https://www.youtube.com/channel/UCe-f0mYOqkFBKejo1USzsQQ
   icon: fab fa-youtube
 - title: Weibo
   url: https://weibo.com/sugoijoe
