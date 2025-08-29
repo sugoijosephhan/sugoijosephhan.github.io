@@ -1,0 +1,12 @@
+- title: Weibo
+  url: https://weibo.com/sugoijoe
+  icon: fab fa-weibo
+- title: WeChat
+  url: https://josephhaaan.github.io/qt/wechat
+  icon: fab fa-weixin
+- title: GitHub 
+  url: https://github.com/josephhaaan/
+  icon: fab fa-github
+- title: Email
+  url: mailto:xiaohueihueeei@qq.com
+  icon: fas fa-envelope
